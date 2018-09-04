@@ -9,6 +9,7 @@
 
     <style name="Button.Primary" parent="Widget.AppCompat.Button.Colored">
         <item name="android:theme">@style/ThemeOverlay.Button.Primary</item>
+        <item name="android:textAppearance">@style/TextAppearance.Button.Primary</item>
     </style>
 
     <style name="ThemeOverlay.Button.Primary" parent="ThemeOverlay.AppCompat.Dark" />
